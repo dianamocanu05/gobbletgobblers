@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1578940011 source:c:\users\hp\desktop\clearning\ipfromscratch\main.cpp
+	<iostream>
+	"FunctiiUtilitare.h"
+	"Meniu.h"
+	"Tabla.h"
+
+1578946405 c:\users\hp\desktop\clearning\ipfromscratch\functiiutilitare.h
+	<graphics.h>
+	<winbgim.h>
+	"Dreptunghi.h"
+
+1578849645 c:\users\hp\desktop\clearning\ipfromscratch\start.h
+	<graphics.h>
+	<winbgim.h>
+	"ModJoc.h"
+	"Ajutor.h"
+
+1578849369 c:\users\hp\desktop\clearning\ipfromscratch\ajutor.h
+	"Dreptunghi.h"
+	"FunctiiUtilitare.h"
+	"Start.h"
+
+1578932191 c:\users\hp\desktop\clearning\ipfromscratch\modjoc.h
+	"Dreptunghi.h"
+	"FunctiiUtilitare.h"
+	"JocPvP.h"
+	"JocPvC.h"
+
+1578942054 c:\users\hp\desktop\clearning\ipfromscratch\dreptunghi.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
+1578949684 c:\users\hp\desktop\clearning\ipfromscratch\jocpvp.h
+	"Tabla.h"
+	"Player.h"
+	<cstdio>
+
+1578932265 c:\users\hp\desktop\clearning\ipfromscratch\jocpvc.h
+	"Dreptunghi.h"
+	<time.h>
+
+1578854548 c:\users\hp\desktop\clearning\ipfromscratch\meniu.h
+	<graphics.h>
+	<winbgim.h>
+	"ModJoc.h"
+	"Dreptunghi.h"
+	"FunctiiUtilitare.h"
+
+1578948809 c:\users\hp\desktop\clearning\ipfromscratch\tabla.h
+	<graphics.h>
+	<winbgim.h>
+	"Piesa.h"
+	<cmath>
+
+1578947216 c:\users\hp\desktop\clearning\ipfromscratch\piesa.h
+	"Dreptunghi.h"
+	<stdio.h>
+
+1578947781 c:\users\hp\desktop\clearning\ipfromscratch\player.h
+	"Dreptunghi.h"
+
